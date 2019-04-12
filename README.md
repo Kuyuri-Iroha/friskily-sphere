@@ -1,4 +1,8 @@
-# WebGL Startup
+# friskily-sphere
 
-WebGLを使えるようにする練習用をするもの。
-基本情報のメモと初期化系統のスケルトンを目指す。
+[Run on Web](https://kuyuri-iroha.github.io/friskily-sphere/)
+
+![gif](...)
+
+## LICENSE
+[MIT](LICENSE)
