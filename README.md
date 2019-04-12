@@ -2,7 +2,7 @@
 
 [Run on Web](https://kuyuri-iroha.github.io/friskily-sphere/)
 
-![gif](...)
+![gif](./friskily-sphere.gif)
 
 ## LICENSE
 [MIT](LICENSE)
